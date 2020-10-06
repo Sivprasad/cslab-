@@ -8,6 +8,7 @@ namespace Parameters
         {
             param = 42;
         }
+
         //public static void  Reference(WrappedInt param)
         //{
         //    param.Number = 42;
