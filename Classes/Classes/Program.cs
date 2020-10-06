@@ -12,8 +12,8 @@ namespace Classes
         {
             Point origin =new Point();
             Point bottomRight = new Point(1366, 768);
-            Point next = new Point();
-            Point thrid = next;
+             
+            
             double distance = origin.DistanceTo(bottomRight);
             Console.WriteLine($"Number of point object {Point.ObjectCount()}");
             Console.WriteLine($"Distance is {distance}");
